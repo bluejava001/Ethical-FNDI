@@ -1,4 +1,4 @@
-# IEEE CNOM SIG on Ethical AI for Future Networks and Digital Infrastructure (Ethical-FNDI)
+# IEEE SIG on Ethical AI for Future Networks and Digital Infrastructure (Ethical-FNDI)
 
 **Chair:** Yulei Wu, University of Exeter, UK, Email: y.l.wu@exeter.ac.uk 
 
