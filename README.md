@@ -23,6 +23,8 @@ The areas of interests include, but are not limited to, the following:
 - Adversarial attacks and defence in AI for future networks and digital infrastructure
 - Trustworthy interactive AI for future networks and digital infrastructure
 - Human-AI interaction in future networks and digital infrastructure
+- Human-centric networking and communication
+- Human-centric digital infrastructure
 - Law, policy, regulation and standards for ethical AI implementation in future networks and digital infrastructure
 - Case studies of ethical AI in future networks and digital infrastructure
 
