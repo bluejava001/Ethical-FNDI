@@ -26,6 +26,7 @@ The areas of interests include, but are not limited to, the following:
 - Verification of AI in future networks and digital infrastructure
 - Adversarial attacks and defence in AI for future networks and digital infrastructure
 - Trustworthy interactive AI for future networks and digital infrastructure
+- Ethical, responsible and trustworthy digital twins for future networks and digital infrastructure
 - Human-AI interaction in future networks and digital infrastructure
 - Human-centric networking and communication
 - Human-centric digital infrastructure
