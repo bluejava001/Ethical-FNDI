@@ -34,6 +34,7 @@ The areas of interests include, but are not limited to, the following:
 Stuart Allen, Cardiff University, UK<br>
 Raouf Boutaba, University of Waterloo, Canada<br>
 Prosper Chemouil, Cnam (Conservatoire national des arts et métiers), France<br>
+Trung Q. Duong, Queen's University Belfast, UK<br>
 Carlos Raniery P. dos Santos, Federal University of Santa Maria (UFSM), Brazil<br>
 Xiaoming Fu, Gottingen University, Germany<br>
 Carol Fung, Concordia University, USA<br>
@@ -45,5 +46,4 @@ Niccolò Tempini, University of Exeter, UK<br>
 Fulvio Valenza, Politecnico di Torino, Italy<br>
 Kun Yang, University of Essex, UK<br>
 Jin Zhao, Fudan University, China<br>
-Zuqing Zhu, University of Science and Technology of China, China<br>
-Trung Q. Duong, Queen's University Belfast, UK
+Zuqing Zhu, University of Science and Technology of China, China
