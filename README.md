@@ -1,11 +1,8 @@
 # IEEE SIG on Ethical AI for Future Networks and Digital Infrastructure (Ethical-FNDI)
 
-**Chair:** Yulei Wu, University of Exeter, UK
-
-**Vice-Chair:** Noura Limam, University of Waterloo, Canada
-
-**Vice-Chair:** Tarek Salhi, Vodafone, UK
-
+**Chair:** Yulei Wu, University of Exeter, UK<br>
+**Vice-Chair:** Noura Limam, University of Waterloo, Canada<br>
+**Vice-Chair:** Tarek Salhi, Vodafone, UK<br>
 **Vice-Chair:** Yan Zhang, University of Oslo, Norway
 
 ## Scope and Objectives
@@ -34,19 +31,19 @@ The areas of interests include, but are not limited to, the following:
 - Case studies of ethical AI in future networks and digital infrastructure
 
 ### Founding Members (TBA)
-Stuart Allen, Cardiff University, UK
-Raouf Boutaba, University of Waterloo, Canada
-Prosper Chemouil, Cnam (Conservatoire national des arts et métiers), France
-Carlos Raniery P. dos Santos, Federal University of Santa Maria (UFSM), Brazil
-Xiaoming Fu, Gottingen University, Germany
-Carol Fung, Concordia University, USA
-Alex Galis, University College London, UK
-Lajos Hanzo, University of Southampton, UK
-David Leslie, The Alan Turing Institute, UK
-Ruidong Li, Kanazawa University, Japan
-Niccolò Tempini, University of Exeter, UK
-Fulvio Valenza, Politecnico di Torino, Italy
-Kun Yang, University of Essex, UK
-Jin Zhao, Fudan University, China
-Zuqing Zhu, University of Science and Technology of China, China
+Stuart Allen, Cardiff University, UK<br>
+Raouf Boutaba, University of Waterloo, Canada<br>
+Prosper Chemouil, Cnam (Conservatoire national des arts et métiers), France<br>
+Carlos Raniery P. dos Santos, Federal University of Santa Maria (UFSM), Brazil<br>
+Xiaoming Fu, Gottingen University, Germany<br>
+Carol Fung, Concordia University, USA<br>
+Alex Galis, University College London, UK<br>
+Lajos Hanzo, University of Southampton, UK<br>
+David Leslie, The Alan Turing Institute, UK<br>
+Ruidong Li, Kanazawa University, Japan<br>
+Niccolò Tempini, University of Exeter, UK<br>
+Fulvio Valenza, Politecnico di Torino, Italy<br>
+Kun Yang, University of Essex, UK<br>
+Jin Zhao, Fudan University, China<br>
+Zuqing Zhu, University of Science and Technology of China, China<br>
 Trung Q. Duong, Queen's University Belfast, UK
