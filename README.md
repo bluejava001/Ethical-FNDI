@@ -34,3 +34,19 @@ The areas of interests include, but are not limited to, the following:
 - Case studies of ethical AI in future networks and digital infrastructure
 
 ### Founding Members (TBA)
+Stuart Allen, Cardiff University, UK
+Raouf Boutaba, University of Waterloo, Canada
+Prosper Chemouil, Cnam (Conservatoire national des arts et métiers), France
+Carlos Raniery P. dos Santos, Federal University of Santa Maria (UFSM), Brazil
+Xiaoming Fu, Gottingen University, Germany
+Carol Fung, Concordia University, USA
+Alex Galis, University College London, UK
+Lajos Hanzo, University of Southampton, UK
+David Leslie, The Alan Turing Institute, UK
+Ruidong Li, Kanazawa University, Japan
+Niccolò Tempini, University of Exeter, UK
+Fulvio Valenza, Politecnico di Torino, Italy
+Kun Yang, University of Essex, UK
+Jin Zhao, Fudan University, China
+Zuqing Zhu, University of Science and Technology of China, China
+Trung Q. Duong, Queen's University Belfast, UK
