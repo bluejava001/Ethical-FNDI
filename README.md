@@ -48,4 +48,6 @@ Niccolò Tempini, University of Exeter, UK<br>
 Fulvio Valenza, Politecnico di Torino, Italy<br>
 Kun Yang, University of Essex, UK<br>
 Jin Zhao, Fudan University, China<br>
-Zuqing Zhu, University of Science and Technology of China, China
+Zuqing Zhu, University of Science and Technology of China, China<br>
+<br>
+Should you be interested in joining this IEEE SIG, please get in touch with Dr. Yulei Wu.
