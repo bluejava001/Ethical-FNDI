@@ -30,7 +30,7 @@ The areas of interests include, but are not limited to, the following:
 - Law, policy, regulation and standards for ethical AI implementation in future networks and digital infrastructure
 - Case studies of ethical AI in future networks and digital infrastructure
 
-### Founding Members (TBA)
+### Founding Members
 Stuart Allen, Cardiff University, UK<br>
 Raouf Boutaba, University of Waterloo, Canada<br>
 Prosper Chemouil, Cnam (Conservatoire national des arts et métiers), France<br>
