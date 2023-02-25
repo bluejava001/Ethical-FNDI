@@ -5,7 +5,8 @@
 **Vice-Chair:** Tarek Salhi, Vodafone, UK<br>
 **Vice-Chair:** Yan Zhang, University of Oslo, Norway<br>
 **Advisor:** Dusit Niyato, Nanyang Technological University, Singapore<br>
-**Advisor:** Chonggang Wang, InterDigital, USA
+**Advisor:** Chonggang Wang, InterDigital, USA<br>
+**Advisor:** Albert Zomaya, The University of Sydney, Australia
 
 ## Scope and Objectives
 Networks and digital infrastructure, such as telecom, transport, energy and water, have been underpinning the functioning of a society and economy. With the fast development of Internet of Things (IoT), Industrial IoT (IIoT), sensors, edge/cloud computing, and artificial intelligence/machine learning (AI/ML) technologies, many traditional critical infrastructure systems, which were isolated somehow, are now exposed, and connected to the Internet, transforming to digital infrastructure. Such a transformation heavily depends on efficient data collection, effective data analysis, and intelligent decision making, but can gain lots of benefits including creating intelligent services such as smart grid and offering a range of advantages for cost savings and efficiencies on network operation and security management. As the evolution and transformation move on, future networks and digital infrastructure would turn into increasingly complex systems. 
