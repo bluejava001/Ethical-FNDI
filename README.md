@@ -5,7 +5,7 @@
 **Vice-Chair:** Tarek Salhi, Vodafone, UK<br>
 **Vice-Chair:** Yan Zhang, University of Oslo, Norway<br>
 **Advisor:** Dusit Niyato, Nanyang Technological University, Singapore<br>
-**Dimitra Simeonidou, University of Bristol, UK<br>
+**Advisor:** Dimitra Simeonidou, University of Bristol, UK<br>
 **Advisor:** Filip De Turck, Ghent University, Belgium<br>
 **Advisor:** Chonggang Wang, InterDigital, USA<br>
 **Advisor:** Albert Zomaya, The University of Sydney, Australia
